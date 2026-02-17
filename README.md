@@ -1,1 +1,1 @@
-Learning Python at the moment
+hejka
